@@ -1,3 +1,9 @@
+"""
+LeetCode: 67 - Add Binary
+Approach: Convert each binary string to decimal manually, sum them, then convert the result back to binary.
+Time: O(n + m + k) where n and m are input lengths and k is bits of the sum; Space: O(k) for the output string.
+"""
+
 class Solution:
     def binaryToDecimal(self, bin):
         convert = 0
@@ -27,8 +33,9 @@ class Solution:
         return sumAB
 
 # test
-sol = Solution()
-print(sol.addBinary('100', '101'))
+if __name__ == "__main__":
+    sol = Solution()
+    print(sol.addBinary('100', '101'))
 
 # best solution
 # 

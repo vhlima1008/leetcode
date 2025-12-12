@@ -1,3 +1,9 @@
+"""
+LeetCode: 9 - Palindrome Number
+Approach: Convert the integer to a string and compare mirrored characters from both ends to detect mismatch early.
+Time: O(n) where n is the number of digits; Space: O(n) for the string/list representation.
+"""
+
 class Solution:
     def isPalindrome(self, x: int):
         state = False
@@ -8,5 +14,6 @@ class Solution:
         return True
 
 # test
-sol = Solution()
-print(sol.isPalindrome(1000021))
+if __name__ == "__main__":
+    sol = Solution()
+    print(sol.isPalindrome(1000021))

@@ -1,3 +1,9 @@
+"""
+LeetCode: 3531 - Count Covered Buildings
+Approach: Track min/max coordinates for each row/column, then count buildings strictly inside both their row and column bounds.
+Time: O(n + b) where n is grid size and b is number of buildings; Space: O(n) for row/column bounds.
+"""
+
 from typing import List
 
 
@@ -34,5 +40,6 @@ class Solution:
         return result
         
 # test
-sol = Solution()
-print(sol.countCoveredBuildings(3, [[1,2],[2,2],[3,2],[2,1],[2,3]]))
+if __name__ == "__main__":
+    sol = Solution()
+    print(sol.countCoveredBuildings(3, [[1,2],[2,2],[3,2],[2,1],[2,3]]))
