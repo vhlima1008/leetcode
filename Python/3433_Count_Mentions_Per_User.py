@@ -1,5 +1,11 @@
 from typing import List
 
+"""
+LeetCode: 3433 - Count Mentions Per User
+Approach: Sort events by time/message priority, track offline back times, and process tokens per message to update mention counts.
+Time: O(E * U) in worst case when messages use ALL/HERE across users; Space: O(U) for counters and back times.
+"""
+
 class Solution:
     def countMentions(self, numberOfUsers: int, events: List[List[str]]) -> List[int]:
         mentions = [0] * numberOfUsers
