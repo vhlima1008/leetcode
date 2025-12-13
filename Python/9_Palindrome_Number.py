@@ -14,5 +14,6 @@ class Solution:
         return True
 
 # test
-sol = Solution()
-print(sol.isPalindrome(1000021))
+if __name__ == "__main__":
+    sol = Solution()
+    print(sol.isPalindrome(1000021))

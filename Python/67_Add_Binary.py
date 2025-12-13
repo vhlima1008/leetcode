@@ -33,8 +33,9 @@ class Solution:
         return sumAB
 
 # test
-sol = Solution()
-print(sol.addBinary('100', '101'))
+if __name__ == "__main__":
+    sol = Solution()
+    print(sol.addBinary('100', '101'))
 
 # best solution
 # 

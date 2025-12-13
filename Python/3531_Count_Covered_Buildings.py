@@ -39,5 +39,6 @@ class Solution:
         return result
         
 # test
-sol = Solution()
-print(sol.countCoveredBuildings(3, [[1,2],[2,2],[3,2],[2,1],[2,3]]))
+if __name__ == "__main__":
+    sol = Solution()
+    print(sol.countCoveredBuildings(3, [[1,2],[2,2],[3,2],[2,1],[2,3]]))
