@@ -1,5 +1,10 @@
 from typing import List
 
+"""
+LeetCode: 3531 - Count Covered Buildings
+Approach: Track min/max coordinates for each row/column, then count buildings strictly inside both their row and column bounds.
+Time: O(n + b) where n is grid size and b is number of buildings; Space: O(n) for row/column bounds.
+"""
 
 class Solution:
     def _max(self, value):
