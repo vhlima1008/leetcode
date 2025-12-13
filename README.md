@@ -160,7 +160,7 @@ if __name__ == "__main__":
     pass
 ```
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome—especially improvements to clarity, correctness, edge cases, or additional approaches.
 
@@ -185,7 +185,7 @@ Contributions are welcome—especially improvements to clarity, correctness, edg
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License**. See [LICENSE](LICENSE).
 
