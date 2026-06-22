@@ -35,7 +35,7 @@ Each day, I add at least one solution inside `Python/`, using **clear filenames 
 
 - **Consistency**: keep a daily practice streak
 - **Readability**: clean code and naming
-- **Revisitability**: quick to understand later (notes + complexity when useful)
+- **Revisitability**: quick to understand later
 
 Use this repo as a study log, a reference library, or a source of alternative approaches.
 
@@ -62,13 +62,7 @@ Current structure:
 
 ---
 
-## Tech Stack
-
-* **Python 3**
-* **LeetCode**
-* **Git**
-
-Links:
+## Links
 
 * Python Docs: [https://docs.python.org/3/](https://docs.python.org/3/)
 * LeetCode: [https://leetcode.com/](https://leetcode.com/)
@@ -82,26 +76,9 @@ Links:
 
 * Python 3 installed
 
-### Optional dependencies
-
-If you add a `requirements.txt` in the future:
-
-```bash
-pip install -r requirements.txt
-```
-
 ---
 
 ## How to Run a Solution
-
-If a file contains a runnable block like:
-
-```py
-if __name__ == "__main__":
-    ...
-```
-
-Run it with:
 
 ```bash
 python "Python/<file-name>.py"
@@ -181,7 +158,7 @@ Contributions are welcome—especially improvements to clarity, correctness, edg
    ```bash
    git push origin my-branch
    ```
-5. Open a Pull Request
+5. Open a Pull Request to `dev` branch and I will validate it
 
 ---
 
