@@ -174,6 +174,7 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE).
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vhlima1008/leetcode/tree/master/0001-two-sum) |
+| [0704-binary-search](https://github.com/vhlima1008/leetcode/tree/master/0704-binary-search) |
 | [3433-count-mentions-per-user](https://github.com/vhlima1008/leetcode/tree/master/3433-count-mentions-per-user) |
 ## Hash Table
 |  |
@@ -207,4 +208,8 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE).
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vhlima1008/leetcode/tree/master/0067-add-binary) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/vhlima1008/leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
