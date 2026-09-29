@@ -167,3 +167,15 @@ Contributions are welcome—especially improvements to clarity, correctness, edg
 This project is licensed under the **MIT License**. See [LICENSE](LICENSE).
 
 ```
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/vhlima1008/leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/vhlima1008/leetcode/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
