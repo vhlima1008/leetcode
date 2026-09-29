@@ -178,4 +178,8 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE).
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vhlima1008/leetcode/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/vhlima1008/leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
