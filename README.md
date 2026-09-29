@@ -182,4 +182,8 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE).
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/vhlima1008/leetcode/tree/master/0007-reverse-integer) |
+## String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/vhlima1008/leetcode/tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->
